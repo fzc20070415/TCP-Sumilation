@@ -1,7 +1,7 @@
 # TCP Simulation
 
 ## How to use:
-    Server command: $ server <PORT> <FILE-DIR>
+    Server command: $ ./server <PORT> <FILE-DIR>
     Client command: $ ./client <HOSTNAME-OR-IP> <PORT> <FILENAME>
 
 ## High Level Design:
